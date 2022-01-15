@@ -1,0 +1,15 @@
+hr{
+    width: 10;
+    color:darkviolet;
+}
+#output{
+    background-color: rgba(255, 255, 255, 0);
+    width: 400px;
+    color: khaki ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5px;
+    font-family: 'Imperial Script';
+}
+h1{
+    font-family: 'Rock 3D';
+}

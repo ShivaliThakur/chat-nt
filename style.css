@@ -1,0 +1,139 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #bc8bf5,  #bc41c0,#cb8edd, #530970, #942ce9);
+}
+
+#chatos{
+	margin-left: 30px;
+}
+
+#output{
+background: rgba(216, 180, 230, 0.8);float: none;border-radius: 15px;
+	margin-left: 30px; 
+}
+.header
+{
+	color: white;font-family: 'Rock 3D';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+
+#check{
+	text-align: center;
+	color: darkred;
+}
+
+.login_div
+{
+	background: rgba(216, 180, 230, 0.8);
+	float: none;
+	border-radius: 15px;
+	margin-left: 30px; 
+}
+
+#h4{
+	font-family: 'Imperial Script';
+}
+
+#h3{
+	font-family: 'Vujahday Script';
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	height: 8%;
+	background-color: rgba(255,255,255,0.8);
+    text-align: center;
+	vertical-align:middle;
+}
+.input_div_message_page button
+{
+	position:static;
+	border-radius: 75;
+	width: 40px;
+	margin-left:300;
+	right: 30;
+	top: 10;
+	bottom: 10;
+	height: 40px;
+	background-image: src= "send.png";
+	background-color:rgba(88, 247, 88, 0.904);
+}
+.input_div_message_page input
+{
+	position:static;
+	margin-left:100;
+	height: 40px;
+	border-width: 3px;
+	border-color: skyblue;
+	background-image: radial-gradient(rgba(230, 230, 250, 0.795),rgba(0, 255, 255, 0.466) );
+	right: 100;
+	top: 10;
+	bottom: 10;
+	border-radius: 10;
+	background-color:rgba(216, 180, 230, 0);
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
